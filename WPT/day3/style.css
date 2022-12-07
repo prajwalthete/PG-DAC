@@ -1,0 +1,20 @@
+div {
+    color: white;
+    /*background: red;*/
+    /*background: linear-gradient(to right, pink, hotpink);*/
+    background: linear-gradient(to right, lightgreen, lightseagreen);
+  
+    /*background-image: url("https://picsum.photos/200");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+  
+    font-size: 24px;
+    font-family: Diplomata SC;
+  
+    margin-bottom: 1px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
