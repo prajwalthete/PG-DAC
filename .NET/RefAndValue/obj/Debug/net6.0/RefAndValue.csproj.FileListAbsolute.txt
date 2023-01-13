@@ -1,0 +1,15 @@
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\bin\Debug\net6.0\RefAndValue.exe
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\bin\Debug\net6.0\RefAndValue.deps.json
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\bin\Debug\net6.0\RefAndValue.runtimeconfig.json
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\bin\Debug\net6.0\RefAndValue.dll
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\bin\Debug\net6.0\RefAndValue.pdb
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.csproj.AssemblyReference.cache
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.dll
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\refint\RefAndValue.dll
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.pdb
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\RefAndValue.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\DAY4\RefAndValue\obj\Debug\net6.0\ref\RefAndValue.dll

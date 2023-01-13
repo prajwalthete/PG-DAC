@@ -1,0 +1,15 @@
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\bin\Debug\net6.0\DefaultInterfaceMethods.exe
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\bin\Debug\net6.0\DefaultInterfaceMethods.deps.json
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\bin\Debug\net6.0\DefaultInterfaceMethods.runtimeconfig.json
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\bin\Debug\net6.0\DefaultInterfaceMethods.dll
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\bin\Debug\net6.0\DefaultInterfaceMethods.pdb
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.csproj.AssemblyReference.cache
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.dll
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\refint\DefaultInterfaceMethods.dll
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.pdb
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\DefaultInterfaceMethods.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\DAY4\DefaultInterfaceMethods\obj\Debug\net6.0\ref\DefaultInterfaceMethods.dll
