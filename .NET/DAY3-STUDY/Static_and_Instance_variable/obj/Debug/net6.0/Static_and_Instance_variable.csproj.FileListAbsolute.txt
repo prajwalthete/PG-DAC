@@ -1,0 +1,15 @@
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.csproj.AssemblyReference.cache
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\bin\Debug\net6.0\Static_and_Instance_variable.exe
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\bin\Debug\net6.0\Static_and_Instance_variable.deps.json
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\bin\Debug\net6.0\Static_and_Instance_variable.runtimeconfig.json
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\bin\Debug\net6.0\Static_and_Instance_variable.dll
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\bin\Debug\net6.0\Static_and_Instance_variable.pdb
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.dll
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\refint\Static_and_Instance_variable.dll
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.pdb
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\Static_and_Instance_variable.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\DAY3-STUDY\Static_and_Instance_variable\obj\Debug\net6.0\ref\Static_and_Instance_variable.dll

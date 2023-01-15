@@ -1,0 +1,15 @@
+E:\.NET WORKSPACE-1\DAY5\Arrays\bin\Debug\net6.0\Arrays.exe
+E:\.NET WORKSPACE-1\DAY5\Arrays\bin\Debug\net6.0\Arrays.deps.json
+E:\.NET WORKSPACE-1\DAY5\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+E:\.NET WORKSPACE-1\DAY5\Arrays\bin\Debug\net6.0\Arrays.dll
+E:\.NET WORKSPACE-1\DAY5\Arrays\bin\Debug\net6.0\Arrays.pdb
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.dll
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.pdb
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\DAY5\Arrays\obj\Debug\net6.0\ref\Arrays.dll

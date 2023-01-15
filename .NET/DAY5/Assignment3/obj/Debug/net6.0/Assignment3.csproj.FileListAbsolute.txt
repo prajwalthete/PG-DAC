@@ -1,0 +1,15 @@
+E:\.NET WORKSPACE-1\DAY5\Assignment3\bin\Debug\net6.0\Assignment3.exe
+E:\.NET WORKSPACE-1\DAY5\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+E:\.NET WORKSPACE-1\DAY5\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+E:\.NET WORKSPACE-1\DAY5\Assignment3\bin\Debug\net6.0\Assignment3.dll
+E:\.NET WORKSPACE-1\DAY5\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.dll
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\refint\Assignment3.dll
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\DAY5\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
