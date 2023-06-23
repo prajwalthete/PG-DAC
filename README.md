@@ -48,13 +48,9 @@ Add the content to selected:
 
 ---
 
-## About PG-DAC
-
-Welcome to PG-DAC! This program is a collection of courses and assignments for the Post Graduate Diploma in Advanced Computing (PG-DAC) program.
-
 ### About PG-DAC
 
-PG-DAC is an industry-driven program designed to enhance your knowledge in the field of advanced computing. It covers various aspects of software development, data science, cloud computing, and more. The program is aimed at equipping you with the necessary skills and techniques to succeed in the rapidly evolving IT industry.
+Welcome to PG-DAC! PG-DAC is an industry-driven program designed to enhance your knowledge in the field of advanced computing. It covers various aspects of software development, data science, cloud computing, and more. The program is aimed at equipping you with the necessary skills and techniques to succeed in the rapidly evolving IT industry.
 
 ### Contents of this Repository
 
